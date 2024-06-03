@@ -1,0 +1,7 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 忽略 target 目录中的所有文件
+/java-server/target/
+# 忽略所有 .jar 文件
+*.jar

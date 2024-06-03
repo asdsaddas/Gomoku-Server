@@ -1,0 +1,18 @@
+2024-04-29 08:57:12,471 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9h8m23s964ms26?s200ns).
+2024-04-29 12:10:41,169 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h21m57s923ms32?s101ns).
+2024-04-29 16:21:23,696 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h51m42s419ms367?s).
+2024-04-29 17:32:45,494 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m21s676ms613?s600ns).
+2024-04-29 19:19:42,146 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57m26s17ms29?s500ns).
+2024-04-29 19:38:51,760 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m8s202ms41?s300ns).
+2024-04-29 19:53:26,984 [http-nio-9090-exec-2] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/user/loginUser,,2024-04-29 19:53:26,0.029
+2024-04-29 19:53:27,231 [http-nio-9090-exec-3] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/lobby/getRoomList,,2024-04-29 19:53:27,0.007
+2024-04-29 19:54:31,035 [http-nio-9090-exec-4] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/user/loginUser,,2024-04-29 19:54:31,0.003
+2024-04-29 19:54:31,067 [http-nio-9090-exec-5] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/lobby/getRoomList,,2024-04-29 19:54:31,0.002
+2024-04-29 19:54:45,727 [http-nio-9090-exec-6] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/lobby/createRoom,,2024-04-29 19:54:45,0.012
+2024-04-29 19:54:46,040 [http-nio-9090-exec-7] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/lobby/getRoomList,,2024-04-29 19:54:46,0.002
+2024-04-29 19:54:47,140 [http-nio-9090-exec-8] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/lobby/deleteRoom,,2024-04-29 19:54:47,0.044
+2024-04-29 19:54:47,456 [http-nio-9090-exec-9] INFO  o.f.teach.security.jwt.AuthTokenFilter             - /auth/lobby/getRoomList,,2024-04-29 19:54:47,0.005
+2024-04-29 20:21:59,987 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14m7s971ms497?s800ns).
+2024-04-29 20:47:39,823 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m39s643ms661?s300ns).
+2024-04-29 21:19:34,097 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=21m54s221ms101?s).
+2024-04-29 23:33:45,851 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool                  - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m9s983ms675?s800ns).
